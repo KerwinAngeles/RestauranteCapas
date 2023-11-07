@@ -1,0 +1,35 @@
+ 
+ Nombre: Kerwin 
+ Apellidos Angeles Flores 
+ Orden: 3 tacos con queso 
+ Fecha: 10/17/2023 9:37:35 PM
+ 
+ Nombre: Jose 
+ Apellidos Martinez 
+ Orden: tacos con jamon 
+ Fecha: 10/17/2023 9:40:55 PM
+ 
+ Nombre: Kerwin 
+ Apellidos Angeles 
+ Orden: Un picapollo joa 
+ Fecha: 10/23/2023 7:40:39 PM
+ 
+ Nombre: cito 
+ Apellidos flores 
+ Orden: 4 tacos con queso 
+ Fecha: 10/23/2023 9:37:22 PM
+ 
+ Nombre: Kerwin  
+ Apellidos Angeles 
+ Orden: 4 tacos con queso 
+ Fecha: 10/23/2023 9:43:01 PM
+ 
+ Nombre: Beni 
+ Apellidos Angeles 
+ Orden: Hamburguesa 2 queso 
+ Fecha: 10/23/2023 9:45:26 PM
+ 
+ Nombre: Beni 
+ Apellidos Flores 
+ Orden: Coca-Cola 
+ Fecha: 10/23/2023 9:46:00 PM
